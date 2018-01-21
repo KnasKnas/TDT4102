@@ -1,2 +1,4 @@
 ﻿  øving2cpp.cpp
+c:\users\christian haugland\documents\ntnu-ting\tdt4102\øving2\øving2\øving2cpp.cpp(185): warning C4101: 'loanAmount': unreferenced local variable
+c:\users\christian haugland\documents\ntnu-ting\tdt4102\øving2\øving2\øving2cpp.cpp(186): warning C4101: 'interest': unreferenced local variable
   øving2.vcxproj -> C:\Users\Christian Haugland\Documents\NTNU-ting\TDT4102\øving2\Debug\øving2.exe
