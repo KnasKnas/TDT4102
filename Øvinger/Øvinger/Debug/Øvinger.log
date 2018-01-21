@@ -1,0 +1,2 @@
+﻿Øving2.obj : error LNK2005: _main already defined in Øving1.obj
+C:\Users\Christian Haugland\Documents\NTNU-ting\TDT4102\Øvinger\Debug\Øvinger.exe : fatal error LNK1169: one or more multiply defined symbols found
